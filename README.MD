@@ -1,1 +1,3 @@
-ML-DL_perso_learn_projects 
+Deep Learning projects
+
+A set of different DL algorithms. 
